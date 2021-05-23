@@ -6,3 +6,9 @@
 
 // Bootstrap
 @import '~bootstrap/scss/bootstrap';
+@import '~bootstrap-icons/font/bootstrap-icons';
+
+.custom-icons {
+    font-size: 16px;
+    padding: 4px 8px 2px;
+}
